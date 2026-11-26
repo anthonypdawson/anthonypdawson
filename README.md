@@ -1,75 +1,44 @@
-# 🔍 Anthony Dawson
-### Forensic systems builder • Senior SDET • Creator of Vector Inspector & Vector Studio
+# Anthony Dawson
 
-I build tools that make invisible systems visible.
+Senior software engineer focused on AI-assisted development, test automation, and developer tooling. I build the tools and the testing discipline that make AI systems trustworthy.
 
-My background blends **forensic debugging**, **developer‑tool design**, and **SDET‑grade testing discipline**.
-Whether I’m mapping vector databases, analyzing embeddings, or troubleshooting hardware, I approach everything with the same mindset:
-**make the system observable, make the behavior explainable, and make the workflow trustworthy.**
+## Contextus
 
----
+A local-first context layer for Claude Code. It captures what matters from your work as plain markdown, retrieves it with hybrid search, and injects only what clears a calibrated relevance floor, so the model knows what it needs before it acts. Open source under Equip.
 
-## 🧪 Vector Inspector
+- Repo: [equiphealth/claude-contextus](https://github.com/equiphealth/claude-contextus)
+- Site: [contextus.divinedevops.com](https://contextus.divinedevops.com)
 
-A forensic UI for vector databases — built for developers who need to *see* what's happening.
+## Vector Inspector
 
-**Supported backends**
+A desktop app for inspecting, querying, and visualizing vector databases. Supports Chroma, Qdrant, Pinecone, LanceDB, pgvector, Weaviate, and Milvus. Built for developers who need to see what their embeddings are actually doing.
 
-- **Weaviate**
-- **LanceDB**
-- **Qdrant**
-- **Pinecone**
-- **pgvector**
-- **Chroma**
+- Repo: [anthonypdawson/vector-inspector](https://github.com/anthonypdawson/vector-inspector)
 
-**What it’s built for**
+## GitHub stats
 
-- Inspecting embeddings with high‑signal clarity
-- Understanding “why did the model return *that*?”
-- Comparing neighbors, distances, and queries side‑by‑side
-- Debugging drift, schema changes, and data quality issues
-- Fast iteration without ceremony or dashboard noise
+<p align="center">
+  <a href="https://github.com/anthonypdawson"><img height="180" alt="Anthony's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anthonypdawson&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=57606a"/></a>
+  <a href="https://github.com/anthonypdawson"><img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonypdawson&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0969da&text_color=57606a"/></a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/anthonypdawson">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anthonypdawson/anthonypdawson/main/img/github-snake-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anthonypdawson/anthonypdawson/main/img/github-snake.svg"/>
+      <img alt="Contribution snake" src="https://raw.githubusercontent.com/anthonypdawson/anthonypdawson/main/img/github-snake.svg"/>
+    </picture>
+  </a>
+</p>
 
-## 🧬 Vector Studio
+## What I work on
 
-Vector Inspector’s bigger sibling — for people running **serious** vector workflows.
+- Test automation and quality engineering for AI systems
+- Developer tooling for AI-assisted development
+- Vector databases and embedding workflows
+- Context management for coding agents
 
-- Multi‑backend workflows across all supported providers
-- Embedding pipelines and cross‑provider migration
-- Tools for drift detection, schema evolution, and forensic comparison
-- Designed for transparency, auditability, and SDET‑grade reproducibility
+## Connect
 
----
-
-## 🧠 How I Think (SDET Edition)
-
-My SDET background shapes everything I build:
-
-- **Assumption‑mapping:** identify hidden state, implicit contracts, and silent failure modes
-- **Adversarial testing:** push systems into edge cases to reveal real behavior
-- **Artifact‑driven debugging:** screenshots, traces, diffs, and concrete evidence
-- **Reproducibility:** every workflow should be testable, repeatable, and observable
-- **System modeling:** understand the architecture before touching the implementation
-
-This is why my tools feel like instruments, not dashboards.
-
----
-
-## 🧱 Areas I Work In
-
-- Vector databases & embedding workflows
-- Developer tools with audit trails and session awareness
-- Forensic debugging of storage, hardware, and distributed systems
-- Codebase analysis and structure‑aware representations
-- High‑signal UI design for complex systems
-
----
-
-## 📬 Connect
-
-- **GitHub:** You’re already here
-- **Collab:** Open to conversations around vector tooling, forensic workflows, and high‑clarity developer experiences
-
-If you’re building something where visibility matters, we’ll get along.
+Open to conversations about AI tooling, test automation, and vector databases.
